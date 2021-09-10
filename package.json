@@ -1,0 +1,23 @@
+{
+  "name": "ejemplo_chat",
+  "version": "1.0.0",
+  "description": "Chat Node.js y Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElianBetancourt/Ejemplo_Chat.git"
+  },
+  "keywords": [],
+  "author": "Elian Betancourt - Angel Cordero - Jose Tirado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElianBetancourt/Ejemplo_Chat/issues"
+  },
+  "homepage": "https://github.com/ElianBetancourt/Ejemplo_Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
